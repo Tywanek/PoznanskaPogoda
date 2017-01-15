@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PoznanskaPogoda</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="API_KEY">0d695b865bc37a0eed22b34854e62369</string>
+    <string name="BASE_URL">http://api.openweathermap.org</string>
+    <string name="adapter_row_temp">"Temperatura: %1$f"</string>
+    <string name="adapter_row_pressure">"Ciśnienie: %1$f"</string>
+    <string name="adapter_row_humidity">"Wilgotność: %1$d"</string>
+</resources>
